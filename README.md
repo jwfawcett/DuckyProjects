@@ -15,3 +15,4 @@ DELAY 1000
 STRING CONGRATULATIONS, YOU HAVE BEEN HACKED!!!!
 I have included the bin in code. I believe I should have made the alert first. Also I want to eventually mkdir of the info and email it to
 the attacker.
+Also FIRSTDUCKYSCRIPT is a variation where wmic qfe will show installed hotfixes on a device.
